@@ -71,5 +71,4 @@ public class CrucePMX extends Cruce {
 		}
 		return nuevaPoblacion;
 	}
-
 }
